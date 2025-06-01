@@ -14,10 +14,10 @@ I'm a Computer Science student passionate about data, algorithms, and building c
 
 # Highlights
 
-### 🧠 SWERC ICPC 2024
+### 🧠 [SWERC ICPC 2024](https://swerc.eu/2024/)
 Competed in the Southwestern Europe Regional Contest with my university team.  
-[SWERC 2024 Website](https://swerc.eu/2024/)
 
-### 🥉 3rd Place @ BugsByte Hackathon 2025
+
+### 🥉 3rd Place @ [BugsByte Hackathon 2025](https://bugsbyte.org/)
 Built a Tinder-style app for grocery products — users could swipe to discover deals.  
 Used **Python**, **SQLite**, and real-time pricing APIs to build a fun and functional prototype.
