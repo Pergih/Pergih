@@ -1,6 +1,5 @@
 # About Me
-I am currently studying Computer Science at University of Minho.
-
+I'm a Computer Science student passionate about data, algorithms, and building cool projects!
 
 # Tech Stack
 ### Programming Languages
