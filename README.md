@@ -1,5 +1,6 @@
 # About Me
-I'm a Computer Science student passionate about data, algorithms, and building cool projects!
+I'm a Computer Science student who likes data, algorithms, and building cool projects!
+And I am currently doing an internship 🙂
 
 # Tech Stack
 ### Programming Languages
