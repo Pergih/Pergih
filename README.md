@@ -23,3 +23,8 @@ Competed in the Southwestern Europe Regional Contest with my university team.
 ### 🥉 3rd Place @ [BugsByte Hackathon 2025](https://bugsbyte.org/)
 Built a Tinder-style app for grocery products — users could swipe to discover deals.  
 Used **Python**, **SQLite**, and real-time pricing APIs to build a fun and functional prototype.
+
+
+### 🪙 Data Engineer Platforms Intern @ [Uphold](https://uphold.com/)
+Built pipelines with dbt and orchestrated them on Cosmos Airflow and Dagster.
+Digged up good features of Cosmos Airflow and Dagster, compared them and pitched those features to Data team.
