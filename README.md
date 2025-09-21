@@ -26,6 +26,5 @@ Used **Python**, **SQLite**, and real-time pricing APIs to build a fun and funct
 
 
 ### 🪙 Data Engineer Platforms Intern @ [Uphold](https://uphold.com/)
-Built pipelines with dbt and orchestrated them on Cosmos Airflow and Dagster.
-
+Built pipelines with dbt and orchestrated them on Cosmos Airflow and Dagster.  
 Digged up features of Cosmos Airflow and Dagster, compared them and pitched those features to Data team.
