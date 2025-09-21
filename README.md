@@ -1,6 +1,7 @@
 # About Me
 I'm a Computer Science student who likes data, algorithms, and building cool projects!
-And I am currently doing an internship 🙂
+
+And I am currently finishing my Bsc and looking for projects to work on🙂
 
 # Tech Stack
 ### Programming Languages
