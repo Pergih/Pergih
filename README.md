@@ -20,7 +20,7 @@ And I am currently finishing my BSCs and looking for projects to work on🙂
 Competed in the Southwestern Europe Regional Contest with my university team.  
 
 
-### 🥉 3rd Place @ [BugsByte Hackathon 2025](https://bugsbyte.org/)
+### 🥉 3rd Place @ [BugsByte Hackathon 2025](https://2025.bugsbyte.org/)
 Built a Tinder-style app for grocery products — users could swipe to discover deals.  
 Used **Python**, **SQLite**, and real-time pricing APIs to build a fun and functional prototype.
 
